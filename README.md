@@ -13,3 +13,4 @@ Only needed MasterMaterials? You can also download from the source code instead!
 - Corrected parameters
 - More accurate preview
 - Cleaner emulation
+- More coming soon(?)
