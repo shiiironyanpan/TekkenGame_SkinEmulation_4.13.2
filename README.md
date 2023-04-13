@@ -3,4 +3,6 @@ An emulation for Tekken Skin Material for modding purpose, made for the new cust
 
 Get the newly fixed and clean engine right here https://github.com/Modding-Zaibatsu/ue4-tekkengame
 
-Full release with all material instances can be found in Release page
+Full release with all material instances can be found in Release page. 
+
+Only needed MasterMaterials? You can also download from the source code instead!
