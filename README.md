@@ -6,3 +6,9 @@ Get the newly fixed and clean engine right here https://github.com/Modding-Zaiba
 Full release with all material instances can be found in Release page. 
 
 Only needed MasterMaterials? You can also download from the source code instead!
+
+## What's changed from legacy version?
+- Corrected parameters
+- More accurate preview
+- Cleaner emulation
+ 
